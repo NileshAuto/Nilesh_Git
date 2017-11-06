@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21780" started-at="2017-11-06T01:24:38Z" finished-at="2017-11-06T01:25:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21780" started-at="2017-11-06T01:24:38Z" finished-at="2017-11-06T01:25:00Z">
+      <class name="TestCases.TC_002">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TestCases.TC_002@51565ec2]" name="openapp" is-config="true" duration-ms="15948" started-at="2017-11-06T06:54:38Z" finished-at="2017-11-06T06:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="loginapp()[pri:0, instance:TestCases.TC_002@51565ec2]" name="loginapp" duration-ms="5801" started-at="2017-11-06T06:54:54Z" finished-at="2017-11-06T06:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:TestCases.TC_002@51565ec2]" name="closedriver" is-config="true" duration-ms="9" started-at="2017-11-06T06:55:00Z" finished-at="2017-11-06T06:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- TestCases.TC_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
